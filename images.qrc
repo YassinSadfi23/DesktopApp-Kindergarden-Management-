@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/bachgroundd.jpg</file>
+        <file>../images/signin.png</file>
+        <file>../images/eleve.jpg</file>
+        <file>../images/ensei.png</file>
+        <file>../images/50344030_829856270708006_7653424905911795712_n.gif</file>
+        <file>../images/art.png</file>
+        <file>../images/banner_06.jpg</file>
+        <file>../images/blog_02.jpg</file>
+        <file>../images/forum.png</file>
+        <file>../images/gallery_06.jpg</file>
+        <file>../images/jardin.png</file>
+    </qresource>
+    <qresource prefix="/jpg"/>
+</RCC>
